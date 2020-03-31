@@ -1,0 +1,18 @@
+{
+    "name": "alexkratky/mail",
+    "description": "Mailer.",
+    "keywords": ["php", "mail", "mailer"],
+    "homepage": "https://panx.eu/",
+    "license": ["MIT"],
+    "authors": [{
+            "name": "Alex Kratky",
+            "homepage": "https://alexkratky.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "files": ["src/Mail.php"]
+    }
+}
